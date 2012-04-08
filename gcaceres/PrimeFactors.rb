@@ -1,5 +1,8 @@
 class PrimeFactors
 
-	def generate
+	def generate(numero)
+		factors = [2,3]
+		factors
+		
 	end
 end
